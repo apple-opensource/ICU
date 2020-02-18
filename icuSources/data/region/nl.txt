@@ -81,7 +81,7 @@ nl{
         CK{"Cookeilanden"}
         CL{"Chili"}
         CM{"Kameroen"}
-        CN{"China"}
+        CN{"China, vasteland"}
         CO{"Colombia"}
         CP{"Clipperton"}
         CR{"Costa Rica"}
@@ -133,7 +133,7 @@ nl{
         GU{"Guam"}
         GW{"Guinee-Bissau"}
         GY{"Guyana"}
-        HK{"Hongkong (China)"}
+        HK{"Hongkong"}
         HM{"Heard en McDonaldeilanden"}
         HN{"Honduras"}
         HR{"Kroatië"}
@@ -183,11 +183,11 @@ nl{
         MF{"Saint-Martin"}
         MG{"Madagaskar"}
         MH{"Marshalleilanden"}
-        MK{"Macedonië"}
+        MK{"Noord-Macedonië"}
         ML{"Mali"}
         MM{"Myanmar (Birma)"}
         MN{"Mongolië"}
-        MO{"Macau (China)"}
+        MO{"Macau"}
         MP{"Noordelijke Marianen"}
         MQ{"Martinique"}
         MR{"Mauritanië"}
@@ -253,7 +253,7 @@ nl{
         SV{"El Salvador"}
         SX{"Sint-Maarten"}
         SY{"Syrië"}
-        SZ{"Swaziland"}
+        SZ{"eSwatini"}
         TA{"Tristan da Cunha"}
         TC{"Turks- en Caicoseilanden"}
         TD{"Tsjaad"}
@@ -287,6 +287,8 @@ nl{
         VU{"Vanuatu"}
         WF{"Wallis en Futuna"}
         WS{"Samoa"}
+        XA{"Pseudo-Accenten"}
+        XB{"Pseudo-Bidi"}
         XK{"Kosovo"}
         YE{"Jemen"}
         YT{"Mayotte"}
@@ -297,8 +299,6 @@ nl{
     }
     Countries%short{
         GB{"VK"}
-        HK{"Hongkong"}
-        MO{"Macau"}
         PS{"Palestina"}
         UN{"VN"}
         US{"VS"}
@@ -309,8 +309,8 @@ nl{
         CI{"Republiek Ivoorkust"}
         CZ{"Tsjechische Republiek"}
         FK{"Falklandeilanden (Islas Malvinas)"}
-        MK{"Macedonië (FYROM)"}
+        SZ{"Swaziland"}
         TL{"Democratische Republiek Oost-Timor"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.49.82"}
 }

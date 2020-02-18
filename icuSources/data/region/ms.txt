@@ -81,7 +81,7 @@ ms{
         CK{"Kepulauan Cook"}
         CL{"Chile"}
         CM{"Cameroon"}
-        CN{"China"}
+        CN{"China, Tanah Besar"}
         CO{"Colombia"}
         CP{"Pulau Clipperton"}
         CR{"Costa Rica"}
@@ -133,7 +133,7 @@ ms{
         GU{"Guam"}
         GW{"Guinea Bissau"}
         GY{"Guyana"}
-        HK{"Hong Kong (China)"}
+        HK{"Hong Kong"}
         HM{"Kepulauan Heard & McDonald"}
         HN{"Honduras"}
         HR{"Croatia"}
@@ -183,11 +183,11 @@ ms{
         MF{"Saint Martin"}
         MG{"Madagaskar"}
         MH{"Kepulauan Marshall"}
-        MK{"Macedonia"}
+        MK{"Macedonia Utara"}
         ML{"Mali"}
         MM{"Myanmar (Burma)"}
         MN{"Mongolia"}
-        MO{"Macau (China)"}
+        MO{"Macau"}
         MP{"Kepulauan Mariana Utara"}
         MQ{"Martinique"}
         MR{"Mauritania"}
@@ -287,6 +287,8 @@ ms{
         VU{"Vanuatu"}
         WF{"Wallis dan Futuna"}
         WS{"Samoa"}
+        XA{"XA"}
+        XB{"XB"}
         XK{"Kosovo"}
         YE{"Yaman"}
         YT{"Mayotte"}
@@ -297,11 +299,9 @@ ms{
     }
     Countries%short{
         GB{"UK"}
-        HK{"Hong Kong"}
-        MO{"Macau"}
         PS{"Palestin"}
         UN{"PBB"}
-        US{"A.S"}
+        US{"AS"}
     }
     Countries%variant{
         CD{"Congo (DRC)"}
@@ -309,8 +309,7 @@ ms{
         CI{"Ivory Coast"}
         CZ{"Republik Czech"}
         FK{"Kepulauan Falkland (Islas Malvinas)"}
-        MK{"Macedonia (FYROM)"}
         TL{"Timor Timur"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.49.2"}
 }

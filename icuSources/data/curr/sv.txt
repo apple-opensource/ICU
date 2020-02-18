@@ -1044,6 +1044,10 @@ sv{
         }
         VEF{
             "VEF",
+            "venezuelansk bolívar (2008–2018)",
+        }
+        VES{
+            "VES",
             "venezuelansk bolívar",
         }
         VND{
@@ -1143,7 +1147,7 @@ sv{
             "afrikansk kontoenhet",
         }
         XXX{
-            "XXX",
+            "¤",
             "okänd valuta",
         }
         YDD{
@@ -1247,7 +1251,6 @@ sv{
         HNL{"L"}
         HRK{"kn"}
         HUF{"Ft"}
-        IDR{"Rp"}
         ILS{"₪"}
         INR{"₹"}
         ISK{"kr"}
@@ -1288,7 +1291,6 @@ sv{
         SHP{"£"}
         SRD{"$"}
         SSP{"£"}
-        STN{"Db"}
         SYP{"£"}
         THB{"฿"}
         TOP{"T$"}
@@ -2350,6 +2352,10 @@ sv{
             other{"venezuelanska bolivar (1871–2008)"}
         }
         VEF{
+            one{"venezuelansk bolívar (2008–2018)"}
+            other{"venezuelanska bolívar (2008–2018)"}
+        }
+        VES{
             one{"venezuelansk bolívar"}
             other{"venezuelanska bolívar"}
         }
@@ -2518,5 +2524,5 @@ sv{
         one{"{0} {1}"}
         other{"{0} {1}"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.48.90"}
 }

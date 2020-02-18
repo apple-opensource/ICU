@@ -80,7 +80,7 @@ nn{
         CK{"Cookøyane"}
         CL{"Chile"}
         CM{"Kamerun"}
-        CN{"Kina"}
+        CN{"Kina, fastlandet"}
         CO{"Colombia"}
         CP{"Clippertonøya"}
         CR{"Costa Rica"}
@@ -132,7 +132,7 @@ nn{
         GU{"Guam"}
         GW{"Guinea-Bissau"}
         GY{"Guyana"}
-        HK{"Hongkong S.A.R. Kina"}
+        HK{"Hongkong"}
         HM{"Heardøya og McDonaldøyane"}
         HN{"Honduras"}
         HR{"Kroatia"}
@@ -182,11 +182,11 @@ nn{
         MF{"Saint Martin"}
         MG{"Madagaskar"}
         MH{"Marshalløyane"}
-        MK{"Makedonia"}
+        MK{"Nord-Makedonia"}
         ML{"Mali"}
         MM{"Myanmar (Burma)"}
         MN{"Mongolia"}
-        MO{"Macao S.A.R. Kina"}
+        MO{"Macao"}
         MP{"Nord-Marianane"}
         MQ{"Martinique"}
         MR{"Mauritania"}
@@ -296,8 +296,6 @@ nn{
     }
     Countries%short{
         GB{"Storbritannia"}
-        HK{"Hongkong"}
-        MO{"Macao"}
         PS{"Palestina"}
         US{"USA"}
     }
@@ -305,8 +303,7 @@ nn{
         CD{"Den demokratiske republikken Kongo"}
         CG{"Republikken Kongo"}
         FK{"Falklandsøyane (Islas Malvinas)"}
-        MK{"Den tidlegare jugoslaviske republikken Makedonia"}
         TL{"Aust-Timor"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.49.82"}
 }

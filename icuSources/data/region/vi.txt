@@ -81,7 +81,7 @@ vi{
         CK{"Quần đảo Cook"}
         CL{"Chile"}
         CM{"Cameroon"}
-        CN{"Trung Quốc"}
+        CN{"Trung Quốc đại lục"}
         CO{"Colombia"}
         CP{"Đảo Clipperton"}
         CR{"Costa Rica"}
@@ -133,7 +133,7 @@ vi{
         GU{"Guam"}
         GW{"Guinea-Bissau"}
         GY{"Guyana"}
-        HK{"Hồng Kông (Trung Quốc)"}
+        HK{"Hồng Kông"}
         HM{"Quần đảo Heard và McDonald"}
         HN{"Honduras"}
         HR{"Croatia"}
@@ -145,7 +145,7 @@ vi{
         IL{"Israel"}
         IM{"Đảo Man"}
         IN{"Ấn Độ"}
-        IO{"Lãnh thổ Ấn độ dương thuộc Anh"}
+        IO{"Lãnh thổ Ấn Độ Dương thuộc Anh"}
         IQ{"Iraq"}
         IR{"Iran"}
         IS{"Iceland"}
@@ -183,11 +183,11 @@ vi{
         MF{"St. Martin"}
         MG{"Madagascar"}
         MH{"Quần đảo Marshall"}
-        MK{"Macedonia"}
+        MK{"Bắc Macedonia"}
         ML{"Mali"}
         MM{"Myanmar (Miến Điện)"}
         MN{"Mông Cổ"}
-        MO{"Macao (Trung Quốc)"}
+        MO{"Ma Cao"}
         MP{"Quần đảo Bắc Mariana"}
         MQ{"Martinique"}
         MR{"Mauritania"}
@@ -287,6 +287,8 @@ vi{
         VU{"Vanuatu"}
         WF{"Wallis và Futuna"}
         WS{"Samoa"}
+        XA{"XA"}
+        XB{"XB"}
         XK{"Kosovo"}
         YE{"Yemen"}
         YT{"Mayotte"}
@@ -297,8 +299,6 @@ vi{
     }
     Countries%short{
         GB{"Vương quốc Anh"}
-        HK{"Hồng Kông"}
-        MO{"Macao"}
         PS{"Palestine"}
         UN{"Liên hiệp quốc"}
         US{"Hoa Kỳ"}
@@ -309,8 +309,7 @@ vi{
         CI{"Bờ Biển Ngà"}
         CZ{"Cộng hòa Séc"}
         FK{"Quần đảo Falkland (Islas Malvinas)"}
-        MK{"Macedonia (FYROM)"}
         TL{"Đông Timor"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.49.82"}
 }

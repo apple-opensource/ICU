@@ -81,7 +81,7 @@ it{
         CK{"Isole Cook"}
         CL{"Cile"}
         CM{"Camerun"}
-        CN{"Cina"}
+        CN{"Cina continentale"}
         CO{"Colombia"}
         CP{"Isola di Clipperton"}
         CR{"Costa Rica"}
@@ -133,7 +133,7 @@ it{
         GU{"Guam"}
         GW{"Guinea-Bissau"}
         GY{"Guyana"}
-        HK{"Hong Kong (Cina)"}
+        HK{"Hong Kong"}
         HM{"Isole Heard e McDonald"}
         HN{"Honduras"}
         HR{"Croazia"}
@@ -183,11 +183,11 @@ it{
         MF{"Saint Martin"}
         MG{"Madagascar"}
         MH{"Isole Marshall"}
-        MK{"Repubblica di Macedonia"}
+        MK{"Macedonia del Nord"}
         ML{"Mali"}
         MM{"Myanmar (Birmania)"}
         MN{"Mongolia"}
-        MO{"Macao (Cina)"}
+        MO{"Macao"}
         MP{"Isole Marianne settentrionali"}
         MQ{"Martinica"}
         MR{"Mauritania"}
@@ -287,6 +287,8 @@ it{
         VU{"Vanuatu"}
         WF{"Wallis e Futuna"}
         WS{"Samoa"}
+        XA{"pseudo-accenti"}
+        XB{"pseudo-bidi"}
         XK{"Kosovo"}
         YE{"Yemen"}
         YT{"Mayotte"}
@@ -297,8 +299,6 @@ it{
     }
     Countries%short{
         GB{"UK"}
-        HK{"Hong Kong"}
-        MO{"Macao"}
         PS{"Palestina"}
         UN{"ONU"}
         US{"USA"}
@@ -309,8 +309,7 @@ it{
         CI{"Côte d’Ivoire"}
         CZ{"Repubblica Ceca"}
         FK{"Isole Falkland (Isole Malvine)"}
-        MK{"Ex Repubblica Jugoslava di Macedonia"}
-        TL{"Timor Leste"}
+        SZ{"Regno di eSwatini"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.48.42"}
 }

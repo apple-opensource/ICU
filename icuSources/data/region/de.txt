@@ -31,6 +31,7 @@ de{
         151{"Osteuropa"}
         154{"Nordeuropa"}
         155{"Westeuropa"}
+        202{"Subsahara-Afrika"}
         419{"Lateinamerika"}
         AC{"Ascension"}
         AD{"Andorra"}
@@ -80,7 +81,7 @@ de{
         CK{"Cookinseln"}
         CL{"Chile"}
         CM{"Kamerun"}
-        CN{"China"}
+        CN{"China, Festland"}
         CO{"Kolumbien"}
         CP{"Clipperton-Insel"}
         CR{"Costa Rica"}
@@ -132,7 +133,7 @@ de{
         GU{"Guam"}
         GW{"Guinea-Bissau"}
         GY{"Guyana"}
-        HK{"Hongkong (China)"}
+        HK{"Hongkong"}
         HM{"Heard und McDonaldinseln"}
         HN{"Honduras"}
         HR{"Kroatien"}
@@ -182,11 +183,11 @@ de{
         MF{"St. Martin"}
         MG{"Madagaskar"}
         MH{"Marshallinseln"}
-        MK{"Mazedonien"}
+        MK{"Nordmazedonien"}
         ML{"Mali"}
         MM{"Myanmar"}
         MN{"Mongolei"}
-        MO{"Macau (China)"}
+        MO{"Macao"}
         MP{"Nördliche Marianen"}
         MQ{"Martinique"}
         MR{"Mauretanien"}
@@ -296,8 +297,6 @@ de{
     }
     Countries%short{
         GB{"GB"}
-        HK{"Hongkong"}
-        MO{"Macau"}
         PS{"Palästina"}
         UN{"UN"}
         US{"USA"}
@@ -308,8 +307,8 @@ de{
         CI{"Elfenbeinküste"}
         CZ{"Tschechische Republik"}
         FK{"Falklandinseln (Malwinen)"}
-        MK{"Mazedonien (EJR)"}
+        SZ{"Eswatini"}
         TL{"Osttimor"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.48.42"}
 }

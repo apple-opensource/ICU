@@ -81,7 +81,7 @@ ro{
         CK{"Insulele Cook"}
         CL{"Chile"}
         CM{"Camerun"}
-        CN{"China"}
+        CN{"China continentală"}
         CO{"Columbia"}
         CP{"Insula Clipperton"}
         CR{"Costa Rica"}
@@ -133,7 +133,7 @@ ro{
         GU{"Guam"}
         GW{"Guineea-Bissau"}
         GY{"Guyana"}
-        HK{"Hong Kong (China)"}
+        HK{"Hong Kong"}
         HM{"Insula Heard și Insulele McDonald"}
         HN{"Honduras"}
         HR{"Croația"}
@@ -183,11 +183,11 @@ ro{
         MF{"Sfântul Martin"}
         MG{"Madagascar"}
         MH{"Insulele Marshall"}
-        MK{"Republica Macedonia"}
+        MK{"Macedonia de Nord"}
         ML{"Mali"}
         MM{"Myanmar (Birmania)"}
         MN{"Mongolia"}
-        MO{"Macao (China)"}
+        MO{"Macao"}
         MP{"Insulele Mariane de Nord"}
         MQ{"Martinica"}
         MR{"Mauritania"}
@@ -253,7 +253,7 @@ ro{
         SV{"El Salvador"}
         SX{"Sint-Maarten"}
         SY{"Siria"}
-        SZ{"Swaziland"}
+        SZ{"eSwatini"}
         TA{"Tristan da Cunha"}
         TC{"Insulele Turks și Caicos"}
         TD{"Ciad"}
@@ -262,7 +262,7 @@ ro{
         TH{"Thailanda"}
         TJ{"Tadjikistan"}
         TK{"Tokelau"}
-        TL{"Timorul de Est"}
+        TL{"Timor-Leste"}
         TM{"Turkmenistan"}
         TN{"Tunisia"}
         TO{"Tonga"}
@@ -287,6 +287,8 @@ ro{
         VU{"Vanuatu"}
         WF{"Wallis și Futuna"}
         WS{"Samoa"}
+        XA{"Pseudo-accente"}
+        XB{"Pseudo-Bidi"}
         XK{"Kosovo"}
         YE{"Yemen"}
         YT{"Mayotte"}
@@ -297,8 +299,6 @@ ro{
     }
     Countries%short{
         GB{"Regatul Unit"}
-        HK{"Hong Kong"}
-        MO{"Macao"}
         PS{"Palestina"}
         UN{"ONU"}
         US{"S.U.A."}
@@ -309,8 +309,8 @@ ro{
         CI{"Coasta de Fildeș"}
         CZ{"Republica Cehă"}
         FK{"Insulele Falkland (Insulele Malvine)"}
-        MK{"Republica Macedonia (FRIM)"}
-        TL{"TL"}
+        SZ{"Swaziland"}
+        TL{"Timorul de Est"}
     }
-    Version{"2.1.41.97"}
+    Version{"2.1.49.82"}
 }
